@@ -1,0 +1,7 @@
+platform :ios, '12.0'
+
+target 'TataMapDemo' do
+      pod 'GoogleMaps', '5.0.0'
+      pod 'NVActivityIndicatorView'
+      pod 'NVActivityIndicatorView/Extended'
+end
